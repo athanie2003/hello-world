@@ -1,0 +1,10 @@
+Phase 1 will include building of start screen and its related functions. 
+  For example, the start menu, required buttons, and other functions
+  
+Phase 2 will deal with Character Initialization.
+  It will deal with classes that initialize character HP, attack points, defense points etc
+  It will also deal with the stats of friendly NPC's, Enemy NPC's, and bosses
+  
+Phase 3 will include character interaction between the main character and other non-playable characters
+  Will include actions and events that occur when you are in battle, and when HP hits 0
+  It will also include the final boss level where the gameplay type us a arcade shooter like galaga.
